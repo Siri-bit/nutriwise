@@ -1,0 +1,5 @@
+{
+  "name": "NutriWise: AI Diet Planner",
+  "description": "A sophisticated AI-powered diet planning application that generates personalized nutritional guides based on age and lifestyle factors using the Gemini API.",
+  "requestFramePermissions": []
+}
