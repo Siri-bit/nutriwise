@@ -17,7 +17,7 @@ This contains everything you need to run your app locally.
    `npm run dev`
 
    # Nutriwise – AI Diet Planner 🥗🤖
->>>>>>> f76360a (Diet plan)
+
 
 Nutriwise is an AI-powered diet planning application that generates personalized diet suggestions using AI.
 
